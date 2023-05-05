@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e6c13ad2.css",
+    "main.js": "./static/js/main.3d15eefa.js",
+    "static/css/494.d5df336e.chunk.css": "./static/css/494.d5df336e.chunk.css",
+    "static/js/494.cf5f5855.chunk.js": "./static/js/494.cf5f5855.chunk.js",
+    "static/js/787.ced9fe1f.chunk.js": "./static/js/787.ced9fe1f.chunk.js",
+    "static/media/DFHeiStd-W7.otf": "./static/media/DFHeiStd-W7.22570473ae72b5078983.otf",
+    "static/media/DFHeiStd-W9.otf": "./static/media/DFHeiStd-W9.d81a0d2c3c6c886bdaff.otf",
+    "static/media/basemap.png": "./static/media/basemap.62dbb25e2d01d6d1da0c.png",
+    "static/media/background_top.png": "./static/media/background_top.e4260effe78a5c01913a.png",
+    "static/media/background_bottom.png": "./static/media/background_bottom.ec12db21c194a8b4452e.png",
+    "static/media/background_middle.png": "./static/media/background_middle.d8bf6ff1e6c938fbd245.png",
+    "static/media/bottom_logo.png": "./static/media/bottom_logo.d4de572018376a14d734.png",
+    "static/media/FuturaCom.ttf": "./static/media/FuturaCom.837ddc4618656fc78d56.ttf",
+    "static/media/top_logo.png": "./static/media/top_logo.19bff7bfd8ed9ef4f49e.png",
+    "static/media/title.png": "./static/media/title.53b9e50be811d04e00a4.png",
+    "static/media/table_header.png": "./static/media/table_header.5f1baedf48fe8ee9264e.png",
+    "index.html": "./index.html",
+    "static/media/search.svg": "./static/media/search.4c788b40684efd7a7969a764071aae69.svg",
+    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
+    "main.3d15eefa.js.map": "./static/js/main.3d15eefa.js.map",
+    "494.d5df336e.chunk.css.map": "./static/css/494.d5df336e.chunk.css.map",
+    "494.cf5f5855.chunk.js.map": "./static/js/494.cf5f5855.chunk.js.map",
+    "787.ced9fe1f.chunk.js.map": "./static/js/787.ced9fe1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3d15eefa.js"
+  ]
+}
